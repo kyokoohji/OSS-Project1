@@ -52,9 +52,9 @@ hostname [-adfisy] [ホスト名]
 
 [実行例]
 
-'#> hostname
+># hostname
 
-'#>　newhost
+>#　newhost
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 

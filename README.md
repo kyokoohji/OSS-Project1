@@ -16,7 +16,6 @@
 ４．上記３を使った実例コマンドを表記
 
 ex.)
-
 hostname
 
 [書式]hostname [-adfisy] [ホスト名]
